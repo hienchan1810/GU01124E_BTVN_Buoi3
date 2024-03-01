@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4mNRWdd8eOOwrxrvFP5k4NL8EEWrloSTTJOJ5X8rWwicwqYlUbZccZs+XVZ6OUBMd8EhuE3gUO0lb7KW+4NbUA==",
+  "dgSpecHash": "RaMG92F9nwbNFHMVemlGpGdueunZSi6XnvxIGc2ksSqj1GyFvR2v7lqJr9k0i9ErnoDmH7CQwGEG2GDK4dFrsQ==",
   "success": true,
-  "projectFilePath": "D:\\ITPlus\\GU0124E\\BTVN_Buoi3\\BTVN_Buoi3.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\magictime\\Di_hoc\\GU01124E_BTVN_Buoi3\\BTVN_Buoi3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HienPC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\HienPC\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\HienPC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\HienPC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
