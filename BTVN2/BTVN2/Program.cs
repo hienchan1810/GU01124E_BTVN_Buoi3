@@ -1,7 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
-using System.ComponentModel.Design;
-using static System.Formats.Asn1.AsnWriter;
 class Program
 {
     static void Main()
@@ -43,24 +40,23 @@ class Program
             }
         }
     }
-             static string XepHang (double d) 
-            {
-                 switch ((int)d)
-                {
-                    case var _ when d < 4:
-                        return "Hoc lai";
-                    case var _ when d >= 4 && d < 6:
-                        return "Trung binh";
-                    case var _ when d >= 6 && d < 8:
-                        return "Kha";
-                    case var _ when d >= 8:
-                        return "Gioi";
-                    default:
-                        return "khong dat";
+    static string XepHang(double d)
+    {
+        switch ((int)d)
+        {
+            case var _ when d < 4:
+                return "Hoc lai";
+            case var _ when d >= 4 && d < 6:
+                return "Trung binh";
+            case var _ when d >= 6 && d < 8:
+                return "Kha";
+            case var _ when d >= 8:
+                return "Gioi";
+            default:
+                return "khong dat";
 
-                }
-            }
-        
-    
+        }
+    }
+
+
 }
-
